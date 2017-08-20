@@ -16,7 +16,7 @@ namespace ChannelsScraper
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ChannelsScraper());
+            Application.Run(new channelsScraper());
         }
     }
 }
